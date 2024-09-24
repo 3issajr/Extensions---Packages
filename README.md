@@ -1,5 +1,5 @@
-# Extensions---Packages
-List of important packages and extensions
+# Extensions---Packages--Useful Information
+List of important packages , extensions and Useful Information
 
 VS Extensions => 
 * Codeium (Highly Recommended)
@@ -52,7 +52,9 @@ Packages =>
 * **http-proxy-middleware** : is a Node.js middleware for connecting your server to another API server, allowing you to create a proxy. (https://www.npmjs.com/package/http-proxy-middleware)
 * **helmet** : Helmet helps secure Express apps by setting HTTP response headers. (https://www.npmjs.com/package/helmet)
 
-
+Useful Information =>
+* **HTTP-Status-Code**
+![Image](https://github.com/user-attachments/assets/8670276a-5705-49a0-8949-fda8d749c865)
 
 
 
