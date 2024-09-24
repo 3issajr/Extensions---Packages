@@ -36,7 +36,7 @@ List of important packages , extensions and Useful Information
 * **cryptojs **: Enables developers to perform various cryptographic operations (Hashing, Encryption, Key Generator, HMAC: keyed-hash message authentication codes). (https://www.npmjs.com/package/crypto-js)
 * **cookie-parser** : Parse Cookie header and populate req.cookies with an object keyed by the cookie names. (https://www.npmjs.com/package/cookie-parser)
 * **body-parser** : Parse incoming request bodies in a middleware before your handlers, available under the req.body (https://www.npmjs.com/package/body-parser)
-* **jwt(jsonwebtoken)** : An implementation of JSON Web Tokens. (https://www.npmjs.com/package/jsonwebtoken)
+* **jwt (jsonwebtoken)** : An implementation of JSON Web Tokens. (https://www.npmjs.com/package/jsonwebtoken)
 * **express** : It is nodejs Framework
 * **cors** : Used for providing a Connect/Express middleware that can be used to enable CORS with various options. (https://www.npmjs.com/package/cors)
 * **luxon** : It is a library for working with dates and times in JavaScript. (https://www.npmjs.com/package/luxon?activeTab=readme)
