@@ -1,6 +1,10 @@
-# Extensions - Packages - Useful Information
-List of important packages , extensions and Useful Information
+# Extensions - Packages - Useful Information - Useful Links
+List of important packages , extensions , Useful Information and Useful Links
 
+### Useful Links =>
+* SVGR Playground
+* Epoch Converter to Calculate Timestamps
+  
 ### VS Extensions => 
 * Codeium (Highly Recommended)
 * Gitlens (Highly Recommended)
