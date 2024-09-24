@@ -1,4 +1,4 @@
-# Extensions---Packages--Useful Information
+# Extensions - Packages - Useful Information
 List of important packages , extensions and Useful Information
 
 VS Extensions => 
