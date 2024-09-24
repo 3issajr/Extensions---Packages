@@ -45,7 +45,7 @@ Packages =>
 * **mongoose** : Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. (https://www.npmjs.com/package/mongoose?azure-portal=true)
 * **dotenv** : Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. (https://www.npmjs.com/package/dotenv)
 * **compression** : Node.js compression middleware. (https://www.npmjs.com/package/compression)
-* **request-ip **: A tiny Node.js module for retrieving a request's IP address. (https://www.npmjs.com/package/request-ip)
+* **request-ip** : A tiny Node.js module for retrieving a request's IP address. (https://www.npmjs.com/package/request-ip)
 * **form-data** : Spec-compliant FormData implementation for Node.js. (https://www.npmjs.com/package/formdata-node)
 * **redis** : node-redis is a modern, high performance Redis client for Node.js (https://www.npmjs.com/package/redis) -- Redis is an in-memory data structure store, commonly used as a database, cache, and message broker. It's known for its high performance, flexibility.
 * **lodash-es** :  which provides utility functions for common programming tasks like manipulating arrays, objects, and strings (https://www.npmjs.com/package/lodash-es)
