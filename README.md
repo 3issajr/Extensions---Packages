@@ -1,7 +1,7 @@
 # Extensions - Packages - Useful Information
 List of important packages , extensions and Useful Information
 
-VS Extensions => 
+### VS Extensions => 
 * Codeium (Highly Recommended)
 * Gitlens (Highly Recommended)
 * MongoDB for VS Code
@@ -30,7 +30,7 @@ VS Extensions =>
 * Error Lens
 * Command List
 
-Packages => 
+### Packages => 
 * **express-rate-limit** : Use to limit repeated requests to public APIs and/or endpoints such as password reset. (https://www.npmjs.com/package/express-rate-limit)
 * **bcryptjs** : Used for hashing and comparing data securely in Node.js. (https://www.npmjs.com/package/bcryptjs)
 * **cryptojs **: Enables developers to perform various cryptographic operations (Hashing, Encryption, Key Generator, HMAC: keyed-hash message authentication codes). (https://www.npmjs.com/package/crypto-js)
