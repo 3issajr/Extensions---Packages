@@ -57,6 +57,7 @@ List of important packages , extensions , Useful Information and Useful Links
 * **helmet** : Helmet helps secure Express apps by setting HTTP response headers. (https://www.npmjs.com/package/helmet)
 * **react-loading-skeleton** : Make beautiful, animated loading skeletons that automatically adapt to your app. (https://www.npmjs.com/package/react-loading-skeleton)
 * **react-circular-progressbar** : A circular progressbar component, built with SVG and extensively customizable.. (https://www.npmjs.com/package/react-circular-progressbar)
+* **classnames** : A simple JavaScript utility for conditionally joining classNames together. (https://www.npmjs.com/package/classnames)
 
 
 ### Useful Information =>
