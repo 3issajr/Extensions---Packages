@@ -55,6 +55,8 @@ List of important packages , extensions , Useful Information and Useful Links
 * **lodash-es** :  which provides utility functions for common programming tasks like manipulating arrays, objects, and strings (https://www.npmjs.com/package/lodash-es)
 * **http-proxy-middleware** : is a Node.js middleware for connecting your server to another API server, allowing you to create a proxy. (https://www.npmjs.com/package/http-proxy-middleware)
 * **helmet** : Helmet helps secure Express apps by setting HTTP response headers. (https://www.npmjs.com/package/helmet)
+* **react-loading-skeleton** : Make beautiful, animated loading skeletons that automatically adapt to your app. (https://www.npmjs.com/package/react-loading-skeleton)
+
 
 ### Useful Information =>
 * **HTTP-Status-Code**
