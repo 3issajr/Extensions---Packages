@@ -33,6 +33,7 @@ List of important packages , extensions , Useful Information and Useful Links
 * JavaScript code snippets
 * Error Lens
 * Command List
+* Colorize
 
 ### Packages => 
 * **express-rate-limit** : Use to limit repeated requests to public APIs and/or endpoints such as password reset. (https://www.npmjs.com/package/express-rate-limit)
