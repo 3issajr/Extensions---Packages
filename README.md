@@ -60,6 +60,7 @@ List of important packages , extensions , Useful Information and Useful Links
 * **react-loading-skeleton** : Make beautiful, animated loading skeletons that automatically adapt to your app. (https://www.npmjs.com/package/react-loading-skeleton)
 * **react-circular-progressbar** : A circular progressbar component, built with SVG and extensively customizable.. (https://www.npmjs.com/package/react-circular-progressbar)
 * **classnames** : A simple JavaScript utility for conditionally joining classNames together. (https://www.npmjs.com/package/classnames)
+* **xlsx** : The SheetJS Community Edition offers battle-tested open-source solutions for extracting useful data from almost any complex spreadsheet and generating new spreadsheets that will work with legacy and modern software alike. (https://www.npmjs.com/package/xlsx)
 
 
 ### Useful Information =>
