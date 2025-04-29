@@ -11,6 +11,7 @@ List of important packages , extensions , Useful Information and Useful Links
 * MongoDB for VS Code
 * Material Icon Theme
 * Live Server
+* Live Share
 * Auto Close Tag
 * Auto Correct
 * Auto Import
@@ -23,7 +24,6 @@ List of important packages , extensions , Useful Information and Useful Links
 * HTML CSS suppoert
 * CSS Peek
 * Image Preview
-* SVG
 * Path Intellisense
 * ES7 React/Redux/GraphQL/React-Native snippets
 * ES7+ React/Redux/React-Native snippets
@@ -32,10 +32,11 @@ List of important packages , extensions , Useful Information and Useful Links
 * Simple React Snippets
 * JavaScript code snippets
 * Error Lens
-* Command List
 * Colorize
-* JSON Crack
-* Quokka.js
+* Figma for VS Code
+* Indent-rainbow
+* SVG
+* Bee Theme
 
 ### Packages => 
 * **express-rate-limit** : Use to limit repeated requests to public APIs and/or endpoints such as password reset. (https://www.npmjs.com/package/express-rate-limit)
@@ -63,7 +64,7 @@ List of important packages , extensions , Useful Information and Useful Links
 * **classnames** : A simple JavaScript utility for conditionally joining classNames together. (https://www.npmjs.com/package/classnames)
 * **xlsx** : The SheetJS Community Edition offers battle-tested open-source solutions for extracting useful data from almost any complex spreadsheet and generating new spreadsheets that will work with legacy and modern software alike. (https://www.npmjs.com/package/xlsx)
 * **react-calendar** : Ultimate calendar for your React app. (https://www.npmjs.com/package/react-calendar)
-
+*  **react-dnd** : Drag and Drop for React. (https://www.npmjs.com/package/react-dnd)
 
 ### Useful Information =>
 * **HTTP-Status-Code**
